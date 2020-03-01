@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{CEb3:function(e,n,t){"use strict";t.r(n);var a=t("FdF9"),o=t("soUV");n.default=function(e){var n=e.pageContext,t=e.navigate;return a.useEffect((function(){t(n.redirectTo)}),[]),a.createElement(o.a,null)}}}]);
+//# sourceMappingURL=component---src-components-redirect-tsx-1232f1ecf725611d5a7b.js.map
